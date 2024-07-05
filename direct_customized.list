@@ -1,7 +1,7 @@
 # 自用直连
 DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,sourceforge.net
-DOMAIN-SUFFIX,jk.io
+#DOMAIN-SUFFIX,jk.io
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,logi.com
