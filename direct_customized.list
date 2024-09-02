@@ -1,8 +1,22 @@
 # 自用直连
 DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,sourceforge.net
-#DOMAIN-SUFFIX,jk.io
+DOMAIN-SUFFIX,jk.io
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,intervals.icu
+DOMAIN-SUFFIX,upwork.com
+
+
+# > 影视网站相关
+DOMAIN,5wuv.com
+DOMAIN,555yy9.com
+DOMAIN,555dy.org
+DOMAIN,btnull.org
+
+# PROCESS-NAME,/Applications/NeatDownloadManager.app/Contents/MacOS/NeatDownloadManager,✈️ Tpad89
+DOMAIN-SUFFIX,wxs.qq.com,REJECT // 微信去广告
+DOMAIN-SUFFIX,whoer.net,📺 TikTok
+DOMAIN,mon-va.capcutapi.com,📺 TikTok
+DOMAIN,www.tonymacx86.com,🇺🇲 美国节点
