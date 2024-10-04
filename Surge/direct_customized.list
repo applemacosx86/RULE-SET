@@ -8,12 +8,17 @@ DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,intervals.icu
 DOMAIN-SUFFIX,upwork.com
 
-#Oracle
+# > Oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 
 # > 影视网站相关
+#555影视
 DOMAIN,5wuv.com
 DOMAIN,555yy9.com
 DOMAIN,555dy.org
+
+
+# > 观影GYING bthull.org
 DOMAIN-SUFFIX,btnull.org
+DOMAIN-SUFFIX,cdnlz12.com #量子线路
