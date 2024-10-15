@@ -11,7 +11,7 @@ DOMAIN-SUFFIX,upwork.com
 # > Oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
-IP-CIDR,129.153.89.37/32
+IP-CIDR,129.153.92.176/32
 
 # > 影视网站相关
 #555影视
