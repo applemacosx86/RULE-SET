@@ -8,6 +8,7 @@ DOMAIN-SUFFIX,logi.com
 # DOMAIN-SUFFIX,intervals.icu
 DOMAIN-SUFFIX,upwork.com
 # DOMAIN-SUFFIX,heycan.com
+DOMAIN-SUFFIX,frame.io
 
 # > Oracle
 DOMAIN-SUFFIX,oracle.com
@@ -21,8 +22,7 @@ DOMAIN,5wuv.com
 DOMAIN,555yy9.com
 DOMAIN,555dy.org
 
-
-# > 观影GYING bthull.org
+#观影GYING bthull.org
 DOMAIN-SUFFIX,btnull.org
 DOMAIN-SUFFIX,cdnlz12.com #量子线路
 DOMAIN-SUFFIX,bfengbf.com #暴风线路
