@@ -5,13 +5,14 @@ DOMAIN-SUFFIX,jk.io
 DOMAIN-SUFFIX,strava.com
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,logi.com
-# DOMAIN-SUFFIX,intervals.icu
+#DOMAIN-SUFFIX,intervals.icu
 DOMAIN-SUFFIX,upwork.com
 # DOMAIN-SUFFIX,heycan.com
 DOMAIN-SUFFIX,frame.io
-DOMAIN-SUFFIX,osx86.us.kg
+#DOMAIN-SUFFIX,osx86.us.kg
 DOMAIN,cf-workers-docker-io-bb4.pages.dev #Docker仓库镜像代理
 DOMAIN-SUFFIX,noip.com  #ddns
+DOMAIN-SUFFIX,payoneer.com
 
 # > Oracle
 DOMAIN-SUFFIX,oracle.com
