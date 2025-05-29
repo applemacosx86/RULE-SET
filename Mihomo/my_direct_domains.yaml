@@ -1,0 +1,5 @@
+payload:
+  # 自定义直连域名规则
+  - DOMAIN-SUFFIX,upwork.com
+  #- DOMAIN,exact.domain.com
+  #- DOMAIN-KEYWORD,somekeyword # 匹配包含特定关键词的域名

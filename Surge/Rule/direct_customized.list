@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,frame.io
 DOMAIN,cf-workers-docker-io-bb4.pages.dev #Docker仓库镜像代理
 DOMAIN-SUFFIX,noip.com  #ddns
 DOMAIN-SUFFIX,payoneer.com
+# DOMAIN-SUFFIX,macked.app
 
 # > Oracle
 DOMAIN-SUFFIX,oracle.com
