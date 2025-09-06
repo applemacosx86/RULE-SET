@@ -16,6 +16,9 @@ DOMAIN-SUFFIX,noip.com  #ddns
 DOMAIN-SUFFIX,payoneer.com
 # DOMAIN-SUFFIX,macked.app
 
+# Mac 固件
+DOMAIN-SUFFIX,ipsw.me
+
 # > Oracle
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
